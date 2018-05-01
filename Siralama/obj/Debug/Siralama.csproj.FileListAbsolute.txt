@@ -1,0 +1,17 @@
+c:\users\demir\documents\visual studio 2015\Projects\Siralama\Siralama\bin\Debug\Siralama.exe
+c:\users\demir\documents\visual studio 2015\Projects\Siralama\Siralama\bin\Debug\Siralama.pdb
+c:\users\demir\documents\visual studio 2015\Projects\Siralama\Siralama\obj\Debug\Siralama.csprojResolveAssemblyReference.cache
+c:\users\demir\documents\visual studio 2015\Projects\Siralama\Siralama\obj\Debug\Siralama.Form1.resources
+c:\users\demir\documents\visual studio 2015\Projects\Siralama\Siralama\obj\Debug\Siralama.Properties.Resources.resources
+c:\users\demir\documents\visual studio 2015\Projects\Siralama\Siralama\obj\Debug\Siralama.csproj.GenerateResource.Cache
+c:\users\demir\documents\visual studio 2015\Projects\Siralama\Siralama\obj\Debug\Siralama.exe
+c:\users\demir\documents\visual studio 2015\Projects\Siralama\Siralama\obj\Debug\Siralama.pdb
+D:\yedekler\C# Projelerim\AlfabetikSıralama\Siralama\bin\Debug\Siralama.exe
+D:\yedekler\C# Projelerim\AlfabetikSıralama\Siralama\bin\Debug\Siralama.pdb
+D:\yedekler\C# Projelerim\AlfabetikSıralama\Siralama\obj\Debug\Siralama.csprojResolveAssemblyReference.cache
+D:\yedekler\C# Projelerim\AlfabetikSıralama\Siralama\obj\Debug\Siralama.Form1.resources
+D:\yedekler\C# Projelerim\AlfabetikSıralama\Siralama\obj\Debug\Siralama.Properties.Resources.resources
+D:\yedekler\C# Projelerim\AlfabetikSıralama\Siralama\obj\Debug\Siralama.csproj.GenerateResource.cache
+D:\yedekler\C# Projelerim\AlfabetikSıralama\Siralama\obj\Debug\Siralama.csproj.CoreCompileInputs.cache
+D:\yedekler\C# Projelerim\AlfabetikSıralama\Siralama\obj\Debug\Siralama.exe
+D:\yedekler\C# Projelerim\AlfabetikSıralama\Siralama\obj\Debug\Siralama.pdb

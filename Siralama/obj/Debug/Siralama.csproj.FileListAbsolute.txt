@@ -15,3 +15,12 @@ D:\yedekler\C# Projelerim\AlfabetikSıralama\Siralama\obj\Debug\Siralama.csproj.
 D:\yedekler\C# Projelerim\AlfabetikSıralama\Siralama\obj\Debug\Siralama.csproj.CoreCompileInputs.cache
 D:\yedekler\C# Projelerim\AlfabetikSıralama\Siralama\obj\Debug\Siralama.exe
 D:\yedekler\C# Projelerim\AlfabetikSıralama\Siralama\obj\Debug\Siralama.pdb
+C:\Users\demir\Desktop\Github Projects\alfabetik-siralama\Siralama\bin\Debug\Siralama.exe
+C:\Users\demir\Desktop\Github Projects\alfabetik-siralama\Siralama\bin\Debug\Siralama.pdb
+C:\Users\demir\Desktop\Github Projects\alfabetik-siralama\Siralama\obj\Debug\Siralama.csprojResolveAssemblyReference.cache
+C:\Users\demir\Desktop\Github Projects\alfabetik-siralama\Siralama\obj\Debug\Siralama.Form1.resources
+C:\Users\demir\Desktop\Github Projects\alfabetik-siralama\Siralama\obj\Debug\Siralama.Properties.Resources.resources
+C:\Users\demir\Desktop\Github Projects\alfabetik-siralama\Siralama\obj\Debug\Siralama.csproj.GenerateResource.cache
+C:\Users\demir\Desktop\Github Projects\alfabetik-siralama\Siralama\obj\Debug\Siralama.csproj.CoreCompileInputs.cache
+C:\Users\demir\Desktop\Github Projects\alfabetik-siralama\Siralama\obj\Debug\Siralama.exe
+C:\Users\demir\Desktop\Github Projects\alfabetik-siralama\Siralama\obj\Debug\Siralama.pdb

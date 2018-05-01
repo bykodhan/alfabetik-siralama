@@ -78,7 +78,7 @@ namespace Siralama
                
                 StreamWriter yaz = new StreamWriter(savefile.FileName);
                 //döngü ile tek tek yazma.
-                for(int i=0;i<listBox1.Items.Count-1;i++)
+                for(int i=0;i<listBox1.Items.Count;i++)
                 {
                     yaz.WriteLine(listBox1.Items[i].ToString());
                 }
